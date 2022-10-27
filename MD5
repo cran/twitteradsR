@@ -1,0 +1,15 @@
+8188847df053f77368edff9cf302682d *DESCRIPTION
+591ecce09d0a3acedae58a7044bfd797 *NAMESPACE
+e48a98bb512df5e6ab624c89dcc9af3b *NEWS.md
+ee5661365bd1291e164598582771c175 *R/fetch_twitterads.R
+7750a9e00241532688f0228c927df668 *R/my_twitterads_data.R
+d192c095957ab0f72b9ef1444d988f1a *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+44fff50bf7325d63dec4eaa777e7d487 *data/my_twitterads_data.RData
+868056e388cc7095bd3434d158ab619e *inst/doc/tutorial.R
+445eba990154830521e1a3f4ade7d05b *inst/doc/tutorial.Rmd
+3720d2866e4b4a1b59909c401b2837dd *inst/doc/tutorial.html
+1db237d2305e7eb214434d35204cc3e2 *man/fetch_twitterads.Rd
+97d0577e84a614b9f88fa7bc141de671 *man/my_twitterads_data.Rd
+44fff50bf7325d63dec4eaa777e7d487 *vignettes/my_twitterads_data.RData
+445eba990154830521e1a3f4ade7d05b *vignettes/tutorial.Rmd
